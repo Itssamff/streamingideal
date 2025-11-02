@@ -1,7 +1,7 @@
 {
         "id": 5,
         "name": "Paramount Plus",
-        "usdPrice": 2,
+        "usdPrice": 2.5,
         "imgUrl": "https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",
         "description": "(Precios x 30 dias)",
         "stock": true,
